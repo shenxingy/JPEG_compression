@@ -6,4 +6,4 @@ https://github.com/ghallak/jpeg-python
 
 https://github.com/zhangqizky/jpeg-compression
 
-Fix white dots bug in those repo
+White dots bug is fixed in those repo.
